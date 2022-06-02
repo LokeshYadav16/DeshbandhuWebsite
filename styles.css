@@ -1,0 +1,163 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+/* Navbar */
+
+.navbar{
+  background-color: #243A73;
+}
+
+.nav-link{
+  color: #fff;
+  margin: auto 0.3rem auto auto;
+}
+
+.nav-link:hover{
+  color: #243A73;
+  background-color: #fff;
+}
+
+/* Top Section */
+
+.logo{
+  width: 60%;
+  margin: 1rem 3rem;
+}
+
+.title-head{
+  font-size: 2rem;
+  color: #7C3E66;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  margin: 1rem 0 0;
+}
+
+.title-subhead, .title-subhead-2, .title-subhead-3{
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  margin: 0.5rem auto;
+  letter-spacing: 2px;
+}
+
+.card{
+  margin: 1rem;
+}
+
+.title-subhead-3{
+  margin: auto;
+  color: #7C3E66;
+}
+
+.location-png{
+  width: 25px;
+  margin: 15px 5px 15px 0;
+}
+
+/* Pic Section */
+
+.pict-section{
+  background-image: url("img/deshbandhuu.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 15rem;
+  width: 100%;
+}
+
+.pic-section-heading{
+  color: #fff;
+  font-weight: bold;
+  position: relative;
+  left: 2rem;
+  top: 11rem;
+}
+
+.iqac-logo{
+  float: left;
+  width: 13rem;
+  margin: auto 2rem;
+}
+
+.info-para{
+  font-size: 15px;
+  margin: 1rem 2rem;
+}
+
+.card-1{
+  margin: 2rem 3rem;
+}
+
+.card-2{
+  margin: 2rem auto 2rem 1rem;
+}
+
+.card-1-heading , .card-2-heading{
+  background-color: #243A73;
+  color: #fff;
+}
+
+.links-iqac{
+  text-decoration: none;
+}
+
+/* Footer */
+
+#footer{
+  background-color: #243A73;
+  color: #fff;
+}
+
+.footer-head-1{
+  margin: 3rem 3rem auto 3rem;
+  font-weight: bold;
+}
+
+.footer-head-2{
+  margin: 3rem 3rem 2rem 3rem;
+  font-weight: bold;
+}
+
+.footer-info{
+  margin: 1rem 3rem 1rem 3rem;
+  font-size: 0.9rem;
+  color: #bea5a5;
+}
+
+.social-icon{
+  width: 2rem;
+  margin-left: 0.5rem;
+  margin-bottom: 5rem;
+}
+
+.facebook{
+  margin-left: 3rem;
+}
+
+.quick-links-part{
+  margin: 3rem 3rem 5rem auto;
+}
+
+.quick-links{
+  color: #bea5a5;
+}
+
+.quick-links:hover{
+  color: #fff;
+}
+
+.map{
+  margin: 3rem auto 5rem;
+}
+
+.copyright{
+  font-size: 1rem;
+  text-align: center;
+  margin: 2rem auto auto;
+  padding-bottom: 2rem;
+}
